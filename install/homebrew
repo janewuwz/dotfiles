@@ -1,0 +1,12 @@
+cmake		libpng		pkg-config
+cscope		libssh2		pngquant
+exercism	libtiff		python
+gdbm		little-cms2	readline
+gettext		macvim		redis
+git		mongodb		rust
+glew		nano		rustup-init
+glfw		ncurses		sqlite
+go		nginx		swig
+httpie		node		xz
+icu4c		openssl
+jpeg		pcre
