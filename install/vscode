@@ -29,3 +29,31 @@ yzhang.markdown-all-in-one-1.6.0
 zhangciwu.swig-tpl-0.0.6
 
 
+
+setting
+{
+"javascript.validate.enable": false,
+"editor.tabSize": 2,
+"editor.minimap.enabled": true,
+"files.insertFinalNewline": true,
+"standard.autoFixOnSave": true,
+"standard.validate": [
+"javascript",
+"javascriptreact",
+{
+"language": "vue",
+"autoFix": true
+},
+{
+"language": "html",
+"autoFix": true
+}
+],
+"standard.options": {
+"plugins": [
+"html"
+]
+},
+"editor.wordWrap": "bounded"
+}
+
